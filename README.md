@@ -59,7 +59,7 @@ The dataset consists of transactional data from an online retail store, includin
 - Customer segmentation helps in personalized marketing strategies.
 - Using Fireducks significantly enhances code execution speed.
 
-## 🚀 Future Enhancements
+## 🌟 Future Enhancements
 - Implement **predictive modeling** to forecast future sales.
 - Deploy an interactive **dashboard** using `Streamlit` or `Dash`.
 - Automate data processing using **Apache Spark**.
