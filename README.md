@@ -1,4 +1,4 @@
-# Online Retail Data Analytics Project (On-going)
+# Online Retail Data Analytics Project
 
 ## 📌 Overview
 This project analyzes an online retail dataset to extract meaningful insights using data cleaning, feature engineering, exploratory data analysis (EDA), customer churn analysis, and code optimization with the Fireducks library.
